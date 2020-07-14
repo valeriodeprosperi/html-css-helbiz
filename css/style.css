@@ -85,3 +85,11 @@ a {
   text-align: center;
   padding-top: 15px;
 }
+.jumbo-text img{
+  height: 50px;
+
+}
+.img-jumbo{
+  text-align: center;
+  padding-top: 30px;
+}
