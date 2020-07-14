@@ -109,3 +109,8 @@ a {
 #hgo-img{
   height:20px;
 }
+
+.hgo{
+  height: 100%;
+  margin-top: 20px;
+}
