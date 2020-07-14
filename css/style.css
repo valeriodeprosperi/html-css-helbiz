@@ -108,12 +108,40 @@ a {
 
 #hgo-img{
   height:20px;
+  margin-top: 30px;
 }
 
 .hgo{
   height: 100%;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-right: 40px;
   background-color: #fafafa;
   text-align: center;
+}
+
+.hgo p {
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+.hgo i{
+  color: lightblue;
+}
+
+.bgo{
+  height: 100%;
+  margin-top: 60px;
+  margin-right: 40px;
+  background-color: #fafafa;
+  text-align: center;
+}
+
+
+.bgo p {
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+.bgo i{
+  color: lightblue;
 }
