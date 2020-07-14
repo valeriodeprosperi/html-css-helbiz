@@ -70,3 +70,18 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.jumbo-text{
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.jumbo-text h1{
+  font-size: 50px;
+}
+.jumbo-text p{
+  text-align: center;
+  padding-top: 15px;
+}
