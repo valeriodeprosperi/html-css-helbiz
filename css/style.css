@@ -145,3 +145,14 @@ a {
 .bgo i{
   color: lightblue;
 }
+
+.products2{
+  width:100%;
+  height:700px;
+background-image: url(img/anziano.png);
+
+}
+
+.products2 img{
+  padding-left: 150px;
+}
